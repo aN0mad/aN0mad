@@ -1,7 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+[![Header](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/static/background.png "Header")]
+
+
+### Technologies and Tools
+[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/static/python.svg "Icon")]
+[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/static/go.svg "Icon")]
+[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/static/csharp.svg "Icon")]
 
 <!--
-**theRealFr13nd/theRealFr13nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
