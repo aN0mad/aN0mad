@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/static/background.png "Header")]
+[![Header](https://github.com/theRealFr13nd/theRealFr13nd/raw/master/static/background.png "Header")]
 
 
 ### Technologies and Tools
-[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/main/static/python.svg "Icon")]
-[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/main/static/go.svg "Icon")]
-[![Icon](https://raw.githubusercontent.com/theRealFr13nd/theRealFr13nd/main/static/csharp.svg "Icon")]
+[![Icon](https://github.com/theRealFr13nd/theRealFr13nd/raw/master/static/python.svg "Icon")]
+[![Icon](https://github.com/theRealFr13nd/theRealFr13nd/raw/master/static/go.svg "Icon")]
+[![Icon](https://github.com/theRealFr13nd/theRealFr13nd/raw/master/static/csharp.svg "Icon")]
 
 <!--
 
