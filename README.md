@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/background.png "Header")
+![Header](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/terminal.gif "Header")
 
 
 ### Technologies and Tools
