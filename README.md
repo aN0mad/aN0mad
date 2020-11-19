@@ -9,10 +9,12 @@ I am a cyber security professional who uses programming for extending capabiliti
 * Certified Checkbox Unchecker
 
 
-### Favorite Languages
+### Languages and Technologies
 <img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/python.svg" align=left width=50 height=50>
 <img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/go.svg" align=left width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/bash.svg" align=left width=50 height=50>
 <img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg" align=left width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/vscode.svg" align=left width=50 height=50>
 
 <br clear="all">
 <br clear="all">
