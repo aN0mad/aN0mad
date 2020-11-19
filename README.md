@@ -2,8 +2,6 @@
 
 ![Header](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/terminal.gif "Header")
 
-<br clear="all">
-
 I am a cyber security professional who uses programming for extending capabilities and automation. Some titles I have held over the course of my career have been:
 * Computer booper
 * Perpetual noob
