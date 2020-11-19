@@ -7,7 +7,9 @@
 [![Icon](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/python.svg?s=50 "Icon")]
 [![Icon](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/go.svg?s=50 "Icon")]
 [![Icon](https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg?s=50 "Icon")]
-
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/python.svg" width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg" width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/go.svg" width=50 height=50>
 <!--
 
 
