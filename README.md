@@ -17,6 +17,7 @@ I am a cyber security professional who uses programming for extending capabiliti
 <img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg" align=left width=50 height=50>
 
 <br clear="all">
+<br clear="all">
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theRealFr13nd)](https://github.com/anuraghazra/github-readme-stats)
