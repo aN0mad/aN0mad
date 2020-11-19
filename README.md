@@ -4,9 +4,9 @@
 
 
 ### Technologies and Tools
-<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/python.svg" width=50 height=50>
-<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg" width=50 height=50>
-<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/go.svg" width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/python.svg" style="float: left;" width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/csharp.svg" style="float: left;" width=50 height=50>
+<img src="https://github.com/theRealFr13nd/theRealFr13nd/blob/main/static/go.svg" style="float: left;" width=50 height=50>
 <!--
 
 
