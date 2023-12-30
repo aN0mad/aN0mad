@@ -3,7 +3,7 @@
 ![Header](https://github.com/aN0mad/aN0mad/blob/main/static/terminal.gif "Header")
 
 I am a cyber security professional who uses programming for extending capabilities and automation. Some titles I have held over the course of my career have been:
-* Computer booper
+* Computer booper 
 * Perpetual noob
 * Professional googler
 * Certified Checkbox Unchecker
