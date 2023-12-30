@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](https://github.com/aN0mad/aN0mad/blob/main/static/terminal.gif "Header")
+![Header](https://github.com/aN0mad/aN0mad/blob/main/static/terminal1.gif "Header")
 
 I am a cyber security professional who uses programming for extending capabilities and automation. Some titles I have held over the course of my career have been:
 * Computer booper 
